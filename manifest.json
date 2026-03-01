@@ -1,0 +1,16 @@
+{
+"name": "آٹا چکی پرو",
+"short_name": "چکی پرو",
+"description": "آٹا چکی پسائی اور کھاتہ مینجمنٹ ایپ",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#1d4ed8",
+"icons": [
+{
+"src": "https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/1149/1149810.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
